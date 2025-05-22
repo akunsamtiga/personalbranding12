@@ -20,7 +20,7 @@ export default function Home() {
         <div className="text-center mb-6">
           <div className="w-24 h-24 mx-auto relative rounded-full overflow-hidden border-2 border-[#c8b89e]">
             <Image
-              src="/p1.jpg"
+              src="/images/p1.jpg"
               alt="Logo SKT Nostalgia"
               fill
               className="object-cover"
